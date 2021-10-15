@@ -1,0 +1,38 @@
+[  {"id":"a1","marka":"Toyota","model":"Auris","godiste":2019,"gorivo":"dizel","cenaDan":23},
+   {"id":"a2","marka":"Audi","model":"A4 Allroad","godiste":2013,"gorivo":"benzin","cenaDan":25},
+   {"id":"a3","marka":"Opel","model":"Astra K","godiste":2015,"gorivo":"dizel","cenaDan":18},
+   {"id":"a4","marka":"Lamborghini","model":"Urus","godiste":2020,"gorivo":"hibrid","cenaDan":50},
+   {"id":"a5","marka":"Porsche","model":"Cayenne","godiste":2016,"gorivo":"hibrid","cenaDan":50},
+   {"id":"a6","marka":"BMW","model":"520 8.G ","godiste":2015,"gorivo":"benzin","cenaDan":22},
+   {"id":"a7","marka":"BMW","model":"420 XD","godiste":2016,"gorivo":"benzin","cenaDan":23},
+   {"id":"a8","marka":"BMW","model":"320 D","godiste":2015,"gorivo":"dizel","cenaDan":24},
+   {"id":"a9","marka":"Toyota","model":"Avensis Wagon","godiste":2017,"gorivo":"hibrid","cenaDan":23},
+   {"id":"a10","marka":"Toyota","model":"Corolla TS ","godiste":2018,"gorivo":"dizel","cenaDan":23},
+   {"id":"c1","marka":"Suzuki","model":"Kingquad","godiste":2008,"gorivo":"dizel","cenaDan":18},
+   {"id":"c2","marka":"Arctic Cat","model":"XT 700 ","godiste":2015,"gorivo":"benzin","cenaDan":30},
+   {"id":"c3","marka":"Arctic Cat","model":"Alterra 700","godiste":2016,"gorivo":"dizel","cenaDan":35},
+   {"id":"c4","marka":"Hisun","model":"TACTIC 550","godiste":2020,"gorivo":"benzin","cenaDan":35},
+   {"id":"c5","marka":"Polaris","model":"SCRAMBLER XP 1000","godiste":2019,"gorivo":"dizel","cenaDan":35},
+   {"id":"c6","marka":"Kawasaki","model":"KFX 700","godiste":2006,"gorivo":"benzin","cenaDan":18},
+   {"id":"c7","marka":"Kawasaki","model":"KVF","godiste":2011,"gorivo":"benzin","cenaDan":18},
+   {"id":"c8","marka":"Honda","model":"Lt 250","godiste":2010,"gorivo":"dizel","cenaDan":18},
+   {"id":"c9","marka":"Suzuki","model":"LTZ", "godiste":2005,"gorivo":"benzin","cenaDan":18},
+   {"id":"c10","marka":"Polaris","model":"RZR S1000 EPS","godiste":2018,"gorivo":"dizel","cenaDan":35},
+   {"id":"m1","marka":"Yamaha","model":"YS 125","godiste":2018,"gorivo":"dizel","cenaDan":27},
+   {"id":"m2","marka":"BMW","model":"R 1200 GS","godiste":2016,"gorivo":"benzin","cenaDan":25},
+   {"id":"m3","marka":"CFMOTO","model":"GT 650 ABS","godiste":2020,"gorivo":"dizel","cenaDan":35},
+   {"id":"m4","marka":"Honda","model":"Crossrunner","godiste":2011,"gorivo":"benzin","cenaDan":20},
+   {"id":"m5","marka":"Harley Davidson","model":"Wide Glide","godiste":2014,"gorivo":"dizel","cenaDan":45},
+   {"id":"m6","marka":"Yamaha","model":"MT 07 MT07","godiste":2015,"gorivo":"dizel","cenaDan":24},
+   {"id":"m7","marka":"Yamaha","model":"MT-09 TRACER GT","godiste":2020,"gorivo":"benzin","cenaDan":35},
+   {"id":"m8","marka":"Honda","model":"CBR 1000 RR","godiste":2012,"gorivo":"benzin","cenaDan":19},
+   {"id":"m9","marka":"Kawasaki","model":"Ninja 400","godiste":2019,"gorivo":"benzin","cenaDan":30},
+   {"id":"m10","marka":"Kawasaki","model":"Versys 1000","godiste":2012,"gorivo":"dizel","cenaDan":25}]
+
+
+
+
+
+
+
+
